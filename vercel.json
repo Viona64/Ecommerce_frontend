@@ -1,0 +1,8 @@
+{
+  "env": {
+    "REACT_APP_API_URL": "https://ecommerce-backend-0xny.onrender.com"
+  },
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}

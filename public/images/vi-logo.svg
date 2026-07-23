@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 112" role="img" aria-labelledby="title desc">
+  <title id="title">Vi Exclusive Gadgets</title>
+  <desc id="desc">Blue and orange Vi logo with an upward arrow and shopping accent</desc>
+  <defs>
+    <linearGradient id="blue" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#063b79"/>
+      <stop offset="1" stop-color="#079bd1"/>
+    </linearGradient>
+    <linearGradient id="teal" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#08a9b6"/>
+      <stop offset="1" stop-color="#36c9bd"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(4 8)">
+    <path fill="url(#blue)" d="M6 10h38l18 37-18-13 22 52H48L16 47l25 15z"/>
+    <path fill="url(#teal)" d="M42 10h22l15 30-17 25-13-23 20 13z"/>
+    <path fill="url(#teal)" d="M116 2l-35 25 20 2-29 49 32-35 15 2z"/>
+    <path fill="url(#blue)" d="M72 73h28l18-38 13 9-21 44H82z"/>
+    <circle cx="67" cy="26" r="9" fill="url(#blue)"/>
+    <path fill="#07509a" d="M57 40c8-8 17-3 21 5l8 12-10 6-8-9-9 28-11-5 8-28c-2-2-2-6 1-9z"/>
+    <path fill="#fff" d="M78 27l14 7-8 16-14-7z"/>
+    <path fill="#18a7b4" d="M80 30l9 5-5 10-9-5z"/>
+    <circle cx="93" cy="75" r="6" fill="#06488d"/>
+    <circle cx="115" cy="75" r="6" fill="#06488d"/>
+    <path fill="#ff6b00" d="M96 46h21l-6 9H91zM104 60h11l-4 6h-11z"/>
+  </g>
+  <g transform="translate(150 18)">
+    <path fill="#073d78" d="M0 0h20l17 42L54 0h20L48 76H29z"/>
+    <path fill="#ff6b00" d="M82 17c0-7 5-12 12-12s12 5 12 12-5 12-12 12-12-5-12-12zm4 20h17v25c0 7 2 10 7 10 3 0 6-2 8-5l-2 15c-4 4-9 6-15 6-10 0-15-7-15-19z"/>
+    <text x="1" y="98" fill="#1675b9" font-family="Arial, sans-serif" font-size="12" letter-spacing="1.2">EXCLUSIVE GADGETS</text>
+  </g>
+</svg>
